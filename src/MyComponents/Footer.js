@@ -17,7 +17,7 @@ export default function Footer(props) {
       </div>
       <div className="footer-content">
         <h3><pre>              AEROMODELLING CLUB, IITK</pre></h3>
-        <div className='developer'>DEVELOPED BY : Aryan, Ujjwal, Himanshu, Rahul</div>
+        <div className='developer'>DEVELOPED BY : Aryan Raj, Ritwik Shankar, Ujjwal Kumar</div>
       </div>
       
     </div>

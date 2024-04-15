@@ -65,7 +65,7 @@ export default function Team(props) {
                   <h4>Y21 ME</h4>
                 </div>
               </div>
-              <div className="coordi-card">
+              {/* <div className="coordi-card">
                 <div className="left">
                   <img className='image__img' src={props.Alka} alt="" />
                   <div class="image__overlay ">
@@ -82,7 +82,7 @@ export default function Team(props) {
                   <h4>Alka</h4>
                   <h4>Y21 ME</h4>
                 </div>
-              </div>
+              </div> */}
 
             </div>
           </div>
