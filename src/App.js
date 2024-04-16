@@ -35,6 +35,7 @@ import ornithopter from './images/ornithopter.png';
 import Quadcopter from './images/Quadcopter.png';
 import tailsitter from './images/tailsitter.png';
 import aerial from './images/Aerial.png';
+import fpv_quad from './images/fpv_quad.png'
 import introductory from './images/introductory.png';
 import types from './images/types.jpg';
 import terminology from'./images/terminology.png';

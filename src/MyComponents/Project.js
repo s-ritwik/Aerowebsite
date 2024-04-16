@@ -105,6 +105,20 @@ clockwise and two counter clockwise.</p>
           </div>
         </div>
 
+        <div className="achievement-card">
+          <div className="left-achievement">
+            <a href="https://drive.google.com/drive/u/0/folders/1IQl41jtaJeX_l-YmuZW451z-5yBLl6Gt">
+            <img className='image__img' src={props.fpv_quad} alt="" />
+            <div id='image__overlay__secy' class="image__overlay ">
+              <p>Different Air Maneuvers were tested using the fpv quad</p>
+              <p>The project is made in summers 2023</p>
+            </div></a>
+          </div>
+          <div className="right">
+            <h4>FPV Quadcopter</h4>
+          </div>
+        </div>
+
         </div>
       </div>
 
