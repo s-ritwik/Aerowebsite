@@ -62,6 +62,20 @@ export default function Glance(props) {
           </p>
         </Carousel.Caption>
       </Carousel.Item>
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src={props.fpv_quad} 
+          alt="fifth slide"
+        />
+
+        <Carousel.Caption>
+          <h3>FPV quadcopter</h3>
+          <p>
+          For long range visual capabilities
+          </p>
+        </Carousel.Caption>
+      </Carousel.Item> 
     </Carousel>
     </div>
     </>

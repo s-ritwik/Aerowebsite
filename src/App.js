@@ -24,6 +24,7 @@ import slide1 from './images/special-menu-1.jpeg';
 import slide2 from './images/special-menu-2.jpg';
 import slide3 from './images/special-menu-3.jpg';
 import slide4 from './images/IC.jpg';
+import slide5 from './images/fpv_quad.png';
 import aeroweek from './images/Aeroweek.jpg';
 import techkriti from './images/techkriti.png';
 import takneek from './images/Takneek.jpg';
@@ -35,7 +36,7 @@ import ornithopter from './images/ornithopter.png';
 import Quadcopter from './images/Quadcopter.png';
 import tailsitter from './images/tailsitter.png';
 import aerial from './images/Aerial.png';
-import fpv_quad from './images/fpv_quad.png'
+import fpv_quad from './images/fpv_quad.png';
 import introductory from './images/introductory.png';
 import types from './images/types.jpg';
 import terminology from'./images/terminology.png';
