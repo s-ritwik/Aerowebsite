@@ -20,7 +20,7 @@ export default function Team(props) {
                     <div className="contact">
                       <a href="mailto:ritwiks21@iitk.ac.in"><img src={props.envelope} alt="" /></a>
                       <p></p>
-                      <a href="https://aryanraj4049.github.io/Aryan_Raj/" target="blank"><img src={props.globe} alt="" /></a>
+                      <a href="https://github.com/s-ritwik" target="blank"><img src={props.globe} alt="" /></a>
                     </div>
                   </div>
                 </div>
