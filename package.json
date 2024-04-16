@@ -1,7 +1,7 @@
 {
   "name": "aeromodellingsite",
   "version": "0.1.0",
-  "homepage": "https://s-ritwik.github.io/Aerowebsite",
+  "homepage": "https://s-ritwik.github.io/Aerowebsite/build",
   "private": true,
   "dependencies": {
     "@coreui/coreui": "^4.2.3",
