@@ -48,20 +48,7 @@ export default function Glance(props) {
           <p>One of the finest aircraft made</p>
         </Carousel.Caption>
       </Carousel.Item>
-      <Carousel.Item>
-        <img
-          className="d-block w-100"
-          src={props.slide3} 
-          alt="Third slide"
-        />
-
-        <Carousel.Caption>
-          <h3>Balsa</h3>
-          <p>
-          Fabricated with Perfection
-          </p>
-        </Carousel.Caption>
-      </Carousel.Item>
+      
       <Carousel.Item>
         <img
           className="d-block w-100"
@@ -76,6 +63,20 @@ export default function Glance(props) {
           </p>
         </Carousel.Caption>
       </Carousel.Item> 
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src={props.slide3} 
+          alt="Third slide"
+        />
+
+        <Carousel.Caption>
+          <h3>Balsa</h3>
+          <p>
+          Fabricated with Perfection
+          </p>
+        </Carousel.Caption>
+      </Carousel.Item>
     </Carousel>
     </div>
     </>
