@@ -94,7 +94,7 @@ function App() {
   return (
     <>
       
-      <Router basename='/club-website-master-2'>
+      <Router basename='/Aerowebsite/build'>
           <Header iitk={iitk} snt={snt} aero={aero} />
           <Switch>
             <Route exact path='/'>
@@ -102,7 +102,7 @@ function App() {
               {/*<About bgvideo={bgvideo} />
               <Glance slide1={slide1} slide2={slide2} slide3={slide3} />*/}
             </Route>
-            <Route path='/club-website-master-2'>
+            <Route path='/Aerowebsite/build'>
               <Homepage bg={bg} bg2={bg2} bgvideo={bgvideo} slide1={slide1} slide2={slide2} slide3={slide3}/>
               {/*<About bgvideo={bgvideo} />
               <Glance slide1={slide1} slide2={slide2} slide3={slide3} />*/}
