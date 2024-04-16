@@ -18,6 +18,8 @@ export default function Team(props) {
                 <img className='image__img' src={props.Ritwik_co} alt="" /> 
                   <div class="image__overlay ">
                     <div className="contact">
+                      <a href="https://www.instagram.com/s.ritwikk/" target="blank"><img src={props.insta} alt="" /></a>
+                      <a href="https://www.facebook.com/ritwikshankar10" target="blank"><img src={props.fb} alt="" /></a>
                       <a href="mailto:ritwiks21@iitk.ac.in"><img src={props.envelope} alt="" /></a>
                       <p></p>
                       <a href="https://github.com/s-ritwik" target="blank"><img src={props.globe} alt="" /></a>
@@ -208,22 +210,6 @@ export default function Team(props) {
               </div>
               <div className="secy-card">
                 <div className="left-secy">
-                  <img className='image__img' src={props.techkriti} alt="" />
-                  <div id='image__overlay__secy' class="image__overlay ">
-                    <div className="contact">
-                      <a href="https://www.instagram.com/manasvikweera/" target="blank"><img src={props.insta} alt="" /></a>
-                      <a href="https://www.facebook.com/search/top/?q=manasvi%20kweera" target="blank"><img src={props.fb} alt="" /></a>
-                      <a href="mailto:manasvi21@iitk.ac.in"><img src={props.envelope} alt="" /></a>
-                    </div>
-                  </div>
-                </div>
-                <div className="right">
-                  <h5>Manasvi</h5>
-                  <h5>Y21 ES</h5>
-                </div>
-              </div>
-              <div className="secy-card">
-                <div className="left-secy">
                   <img className='image__img' src={props.Netraj} alt="" />
                   <div id='image__overlay__secy' class="image__overlay ">
                     <div className="contact">
@@ -306,22 +292,7 @@ export default function Team(props) {
                   <h5>Y21 CE</h5>
                 </div>
               </div>
-              <div className="secy-card">
-                <div className="left-secy">
-                  <img className='image__img' src={props.Rishima} alt="" />
-                  <div id='image__overlay__secy' class="image__overlay ">
-                    <div className="contact">
-                      <a href="https://www.instagram.com/rishimaharikumar/" target="blank"><img src={props.insta} alt="" /></a>
-                      <a href="https://www.facebook.com/profile.php?id=100075280689618" target="blank"><img src={props.fb} alt="" /></a>
-                      <a href="mailto:rishimah21@iitk.ac.in"><img src={props.envelope} alt="" /></a>
-                    </div>
-                  </div>
-                </div>
-                <div className="right">
-                  <h5>Rishima</h5>
-                  <h5>Y21 PHY</h5>
-                </div>
-              </div>
+              
               <div className="secy-card">
                 <div className="left-secy">
                   <img className='image__img' src={props.Ritwik} alt="" />

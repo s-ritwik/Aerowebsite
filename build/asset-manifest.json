@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Aerowebsite/build/static/css/main.d8cde6b2.css",
-    "main.js": "/Aerowebsite/build/static/js/main.92ee2ebc.js",
+    "main.js": "/Aerowebsite/build/static/js/main.cca8dcde.js",
     "static/js/787.1eb41c4b.chunk.js": "/Aerowebsite/build/static/js/787.1eb41c4b.chunk.js",
     "static/media/Ritwik_co.jpg": "/Aerowebsite/build/static/media/Ritwik_co.bdde0a21d355f8b98b94.jpg",
     "static/media/team-bg.mp4": "/Aerowebsite/build/static/media/team-bg.1a91cb3b32a539842dba.mp4",
@@ -65,11 +65,11 @@
     "static/media/envelope-solid.svg": "/Aerowebsite/build/static/media/envelope-solid.e097336f4e33827be942e2c35296dbca.svg",
     "static/media/square-facebook.svg": "/Aerowebsite/build/static/media/square-facebook.bb281c7fe5085e0a931d100e72878110.svg",
     "main.d8cde6b2.css.map": "/Aerowebsite/build/static/css/main.d8cde6b2.css.map",
-    "main.92ee2ebc.js.map": "/Aerowebsite/build/static/js/main.92ee2ebc.js.map",
+    "main.cca8dcde.js.map": "/Aerowebsite/build/static/js/main.cca8dcde.js.map",
     "787.1eb41c4b.chunk.js.map": "/Aerowebsite/build/static/js/787.1eb41c4b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8cde6b2.css",
-    "static/js/main.92ee2ebc.js"
+    "static/js/main.cca8dcde.js"
   ]
 }

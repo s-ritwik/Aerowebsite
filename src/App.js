@@ -44,7 +44,6 @@ import drone from './images/drone.jpg';
 import xflr from './images/XFLR5.jpg';
 import avionics from './images/avionics.png';
 import 'bootstrap/dist/css/bootstrap.min.css';
-
 //Team Photos
 
 import Aakansha from './images/team/Aakanksha.jpg';
@@ -98,17 +97,17 @@ function App() {
           <Header iitk={iitk} snt={snt} aero={aero} />
           <Switch>
             <Route exact path='/'>
-              <Homepage bg={bg} bg2={bg2} bgvideo={bgvideo} slide1={slide1} slide2={slide2} slide3={slide3} slide4={slide4}/>
+              <Homepage bg={bg} bg2={bg2} bgvideo={bgvideo} slide1={slide1} slide2={slide2} slide3={slide3} slide4={slide4} lide5={fpv_quad} />
               {/*<About bgvideo={bgvideo} />
               <Glance slide1={slide1} slide2={slide2} slide3={slide3} />*/}
             </Route>
             <Route path='/Aerowebsite/build'>
-              <Homepage bg={bg} bg2={bg2} bgvideo={bgvideo} slide1={slide1} slide2={slide2} slide3={slide3}/>
+              <Homepage bg={bg} bg2={bg2} bgvideo={bgvideo} slide1={slide1} slide2={slide2} slide3={slide3} slide5={fpv_quad} />
               {/*<About bgvideo={bgvideo} />
               <Glance slide1={slide1} slide2={slide2} slide3={slide3} />*/}
             </Route>
             <Route path='/projects'>
-              <Project bgvideo={bgvideo} slide3={slide3} Quadplane={Quadplane} ornithopter={ornithopter} Quadcopter={Quadcopter} tailsitter={tailsitter} aerial={aerial}/>
+              <Project bgvideo={bgvideo} slide3={slide3} Quadplane={Quadplane} fpv_quad={fpv_quad} ornithopter={ornithopter} Quadcopter={Quadcopter} tailsitter={tailsitter} aerial={aerial}/>
             </Route>
             <Route path='/activities'>
               <Activities avionics={avionics} xflr={xflr} drone={drone} terminology={terminology} types={types} introductory={introductory} slide3={slide3} aeroweek={aeroweek} techkriti={techkriti} summer={summer} takneek={takneek} bgvideo={bgvideo} />
